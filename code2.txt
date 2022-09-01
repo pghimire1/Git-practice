@@ -1,0 +1,2 @@
+string str1="welcome"
+string str2="Pratibha"
